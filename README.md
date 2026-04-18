@@ -203,4 +203,4 @@ You’ll see the live, ordered table in the terminal, and `actives.txt` will con
 
 For bugs, ideas, or contributions, feel free to reach out:
 
->- **Matin** – Telegram: [https://t.me/Hu_Matin](https://t.me/ahunter0)
+>- **Matin** – Telegram: [Matin](https://t.me/Hu_Matin)
